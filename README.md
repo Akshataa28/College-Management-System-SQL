@@ -11,9 +11,9 @@ To build a well-organized relational database that simplifies college administra
 - Relational Database Design
 
 ## Features
-- Designed a relational database using primary and foreign keys
-- Created tables for students, professors, courses, enrollments, and college details
-- Implemented DDL, DML, and DQL operations
-- Used joins, subqueries, views, and window functions
+- Designed a relational database using primary and foreign keys.
+- Created tables for students, professors, courses, enrollments, and college details.
+- Implemented DDL, DML, and DQL operations.
+- Used joins, subqueries, views, and window functions.
 - Generated analytical insights such as department-wise student count and professor salary analysis.
 
